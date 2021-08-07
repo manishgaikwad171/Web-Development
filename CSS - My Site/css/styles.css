@@ -79,6 +79,10 @@ a{
 .contact-me{
     margin: 80px auto;
 }
+.intro{
+    width: 30%;
+    margin: auto;
+}
 .btn{
     background-color: #11999E;
     color: #EAF6F6;
