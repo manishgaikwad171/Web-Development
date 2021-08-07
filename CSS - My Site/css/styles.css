@@ -39,3 +39,19 @@ h3{
 a{
     color: #11999E;
 }
+.skill-row{
+    width: 50%;
+    margin: 6.25rem auto;
+    text-align: left;
+    line-height: 2;
+}
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.trade-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
