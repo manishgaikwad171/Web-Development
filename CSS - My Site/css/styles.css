@@ -30,9 +30,10 @@ h3{
 }
 .bottom-container{
     background-color: #66BFBF;
-    height: 150px;
+    height: 60px;
     width: auto;
     color: #EAF6F6;
+    padding: 40px;
 }
 .top-cloud{
     position: absolute;
@@ -44,6 +45,7 @@ h3{
 }
 a{
     color: #11999E;
+    text-decoration: none;
 }
 .skill-row{
     width: 50%;
@@ -66,4 +68,19 @@ hr{
     border-color: #EAF6F6;
     border-width: 10px 0px 0px 0px;
     width: 5%;
+}
+.footer-link{
+    margin: 20px;
+    margin-top: 50px;
+}
+.para-footer{
+    margin-top:25px;
+}
+.contact-me{
+    margin: 80px auto;
+}
+.btn{
+    background-color: #11999E;
+    color: #EAF6F6;
+    height: 50px;
 }
