@@ -32,7 +32,12 @@ hr{
 }
 a{
     color: #11999E;
+    font-size: 'Montserrat', sans-serif;
+    margin: 10px 20px;
     text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
 }
 .top-container{
     background-color: #EAF6F6;
@@ -43,7 +48,8 @@ a{
     margin: 100px 0px;
 }
 .bottom-container{
-
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
 }
 .top-cloud{
     position: absolute;
@@ -71,16 +77,6 @@ a{
     float: right;
     margin-left: 30px;
 }
-.footer-link{
-    margin: 20px;
-    margin-top: 50px;
-}
-.para-footer{
-    margin-top:25px;
-}
-.contact-me{
-    margin: 80px auto;
-}
 .intro{
     width: 30%;
     margin: auto;
@@ -88,6 +84,11 @@ a{
 .contact-me{
     width: 50%;
     margin: 40px auto 30px;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
 }
 .btn {
     background: #11CDD4;
