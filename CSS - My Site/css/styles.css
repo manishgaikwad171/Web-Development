@@ -19,7 +19,7 @@ h3{
     color: #11999E;
 }
 .top_container{
-    background-color: #F9F7CF;
+    background-color: #EAF6F6;
     position: relative;
     padding-top: 100px;
 }
@@ -27,6 +27,12 @@ h3{
     background-color: yellowgreen;
     height: 200px;
     width: 200px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    height: 150px;
+    width: auto;
+    color: #EAF6F6;
 }
 .top-cloud{
     position: absolute;
@@ -54,4 +60,10 @@ a{
     width: 25%;
     float: right;
     margin-left: 30px;
+}
+hr{
+    border-style:dotted;
+    border-color: #EAF6F6;
+    border-width: 10px 0px 0px 0px;
+    width: 5%;
 }
